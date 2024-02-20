@@ -6,4 +6,4 @@ def lambda_handler(event, context):
     print(df)
     print('Done x1.1')
     print('test lambda function')
-    print('Hi from Manny')
+    print('Hi from Manny1')
